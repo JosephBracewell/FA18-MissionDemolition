@@ -546,7 +546,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Button
+  m_Text: Switch View
 --- !u!222 &1078021719
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1433,5 +1433,5 @@ Halo:
   m_Enabled: 1
   m_Color:
     serializedVersion: 2
-    rgba: 4290756543
+    rgba: 1736409747
   m_Size: 3
